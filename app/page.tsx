@@ -264,7 +264,7 @@ export default function Home() {
           transition={{ duration: 0.5 }}
           className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 text-xs font-semibold shadow-inner"
         >
-          <span className="w-2 h-2 rounded-full bg-indigo-500 animate-pulse"></span> Available for Tech Leadership & Consulting
+          <span className="w-2 h-2 rounded-full bg-indigo-500 animate-pulse"></span> Available for Development & Consulting
         </motion.div>
         
         <motion.h1 
@@ -548,7 +548,7 @@ export default function Home() {
             Send an Email
           </a>
           <p className="text-xs text-slate-600 pt-8">
-            © {new Date().getFullYear()} Vijendra Patel. Built with Next.js & Framer Motion.
+            © {new Date().getFullYear()} Vijendra Patel.
           </p>
         </div>
       </footer>
